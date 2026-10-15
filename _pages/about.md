@@ -20,4 +20,4 @@ The Chinese University of Hong Kong, Shenzhen.
 
 My research interests include algorithms and learning theory.
 
-Email: YOUR_EMAIL
+Email: tianranzhu@link.cuhk.edu.cn
