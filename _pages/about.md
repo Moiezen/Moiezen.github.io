@@ -18,6 +18,6 @@ latest_posts:
 I am Tianran Zhu, a Ph.D. student at the School of Data Science,
 The Chinese University of Hong Kong, Shenzhen.
 
-My research interests include algorithms and learning theory.
+My research interests include online algorithms and learning theory.
 
 Email: tianranzhu@link.cuhk.edu.cn
